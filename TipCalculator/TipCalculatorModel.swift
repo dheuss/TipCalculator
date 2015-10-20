@@ -9,7 +9,6 @@ class TipCalculatorModel {
             return total / (taxPct + 1)
         }
         set (newSubtotal) {
-            //...
         }
     }
     
