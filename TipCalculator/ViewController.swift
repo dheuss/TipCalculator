@@ -25,6 +25,17 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func calculateTapped(sender : AnyObject){
+        
+    }
+    
+    @IBAction func taxPercantageChanger(sender : AnyObject){
+        
+    }
+    
+    @IBAction func viewTapped(sender : AnyObject){
+        
+    }
 
 }
 
